@@ -71,4 +71,4 @@ public class Str2 {
         System.out.println(result);
     }
 
-}
+} 
